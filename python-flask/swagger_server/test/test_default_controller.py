@@ -25,7 +25,7 @@ class TestDefaultController(BaseTestCase):
     def test_ping_get(self):
         """Test case for ping_get
 
-        Server heartbeat operation
+        Server heartbeat operationd
         """
         response = self.client.open(
             '/Smurfette79/SmurfDaBitch/1.0.0/ping',

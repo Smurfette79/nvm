@@ -16,7 +16,7 @@ def example_get():  # noqa: E501
 
 
 def ping_get():  # noqa: E501
-    """Server heartbeat operation
+    """Server heartbeat operationd
 
     This operation shows how to override the global security defined above, as we want to open it up for all users. # noqa: E501
 
